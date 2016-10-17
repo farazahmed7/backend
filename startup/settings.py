@@ -38,7 +38,21 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'accounts',
+    'stream_django',
+    'rest_auth',
+    'allauth',
+'allauth.account',
+'allauth.socialaccount',
+'allauth.socialaccount.providers.facebook',
+     'django.contrib.sites',
+
 ]
+
+SITE_ID = 1
+
+STREAM_API_KEY = '65dbu2t2watj'
+STREAM_API_SECRET = '2yumesbbagn6djbsmv32m7sf5j6u3ep3tutc853uqufj5kr2dw6aejwdseun7jhd'
+
 
 MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
@@ -52,6 +66,13 @@ MIDDLEWARE_CLASSES = [
 ]
 
 ROOT_URLCONF = 'startup.urls'
+
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+        'rest_framework.renderers.BrowsableAPIRenderer',
+    )
+}
 
 TEMPLATES = [
     {
@@ -117,10 +138,29 @@ USE_L10N = True
 USE_TZ = True
 
 
+AUTHENTICATION_BACKENDS = (
+    # Needed to login by username in Django admin, regardless of `allauth`
+    "django.contrib.auth.backends.ModelBackend",
+    # `allauth` specific authentication methods, such as login by e-mail
+    "allauth.account.auth_backends.AuthenticationBackend"
+)
+
+TEMPLATE_CONTEXT_PROCESSORS = (
+    "django.core.context_processors.request",
+    "django.contrib.auth.context_processors.auth",
+    "allauth.account.context_processors.account",
+    "allauth.socialaccount.context_processors.socialaccount",
+)
+
+# auth and allauth settings
+LOGIN_REDIRECT_URL = '/'
+SOCIALACCOUNT_QUERY_EMAIL = True
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
-MEDIA_ROOT = '\startup\accounts\media'
+MEDIA_ROOT = '/media/'
 MEDIA_URL = '/media/'
+LOGIN_REDIRECT_URL='/profile/'
 
