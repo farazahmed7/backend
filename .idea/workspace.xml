@@ -28,9 +28,33 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accounts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.043814432">
-              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            <state vertical-scroll-proportion="-0.57954544">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/allauth/socialaccount/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/accounts/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -55,28 +79,6 @@
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feeds.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/feeds.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accounts/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,17 +126,20 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response39.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/accounts/admin.py" />
         <option value="$PROJECT_DIR$/startup/urls.py" />
         <option value="$PROJECT_DIR$/accounts/serializers.py" />
-        <option value="$PROJECT_DIR$/accounts/models.py" />
         <option value="$PROJECT_DIR$/accounts/feeds.py" />
         <option value="$PROJECT_DIR$/startup/settings.py" />
         <option value="$PROJECT_DIR$/accounts/urls.py" />
         <option value="$PROJECT_DIR$/accounts/views.py" />
+        <option value="$PROJECT_DIR$/accounts/models.py" />
       </list>
     </option>
   </component>
@@ -234,6 +239,783 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508672345000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="AyRpqel6UcmUscmmpHaoCNvhqtH7uQK4" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;1bef69496668f096aa9a898b74e7c4d18b9b4abd$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478432345000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="w2zc6fiqv8rbvkih8zcsr8zbg6o8fofa" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508672155000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="EJ38oLQU0NSQUYD5x3uN0gzm90bpjhxu" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;d703342e038748aa42763105fabe4b8d656fb36f$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478432155000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="ylhz7zd8fc32813m4v788n0cyy6l1ft7" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508672153000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="VcnGiMm8FI34YThMKoVCyGd3phEjjkJ5" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;edd0041130be373a5593cc349d480f7015cbacfd$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478432153000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="wpsw6hl6wksk0ro8nbnvudeu9thdla4d" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508672126000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="TR0rexBaS8Ys2ZdixFJxgKYrvV13xJ4u" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;4153090504bc8b642248eb1206623729da1941f9$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478432126000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="wqhwtkfbr5li8pegp3iy5l1kmx0980bm" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508671841000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="axZvzx2VNMFjNU2bdB2Lyb1CHVOLBonq" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;a8a6c64de2d0f68cd8f112cb0bd17bb94ee157c8$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478431841000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="xiqhutdk9qvr98itvvezua4n8m23ad5p" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508671839000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="jIwlZLVm9Tij26WvRF0W5SXHxu7yP3MZ" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;a891eb578acd681a13d2580b1891219b194627ad$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478431839000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="ditcmurgh1kubwgchqiolv3b1tciyv7w" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508671790000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="ztthdiaBE3dYYwcETlWE0jDP70JhlXiA" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;14db5f1f66a60266b12a575fb19904265033833a$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478431790000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="ke7yrboz0mp8a5th44fbc791akshhvxk" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508670715000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="SozWCtNHYYdzsr5n6w5JpMW6p7AlwNaq" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;fdb7a0f1d4cfd715ebf6365a0d3ae0ad29698f71$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478430715000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="tj1pn2ux4g88e48j0upmp73q6kqujvwt" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="faraz.dipsite@gmail.com" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508670712000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="8SaoqaiAGRoemMbIGFN9NsW9aG7XrG2Q" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;0cbf80cb5efcd3ad84bee93c10393e9777c92393$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478430712000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="a0b52q5atp8r6m10295933w367ccxzn3" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508670664000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="ZVQPmiribwwfdtiOIuKPmd53Y6S9rM7L" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;c130a906b6cda5485361b84d5ac05d3d15cc736a$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478430664000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="m9twbh75lcqdjr5ll46ljiwt8q1guhlc" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508670639000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="b7TXW8mP6fb9Z3PMJNHKgLXAe5WtLVZE" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;d946a52204b61c30dc67dc5b8b506e51855a395d$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478430639000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="271do130ezexsrvxdoi1e3xbpko24wlj" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508670636000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="1tiDfMrMzOU5Zy8iuDccKTQLFCFLZfq4" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;0bd0d91d3508d648bdb3e7f86c0e26be8f82af51$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]\054[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478430636000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="vpyd7pv7n3x4b6ouh0efmidn42uy0eka" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1508653848000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="csrftoken" />
+                <option name="path" value="/" />
+                <option name="value" value="m6a6YLhtvoeL1uMnMVNlLbG9qF23kWfy" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="messages" />
+                <option name="path" value="/" />
+                <option name="value" value="&quot;d6aca42384bf4a13476e3622d9f8984241b169ad$[[\&quot;__json_message\&quot;\0540\05425\054\&quot;Successfully signed in as faraz2.\&quot;]]&quot;" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1478413848000" />
+                <option name="domain" value="127.0.0.1" />
+                <option name="name" value="sessionid" />
+                <option name="path" value="/" />
+                <option name="value" value="y3fwrqd7x3qwyk0pevnpgmrq8ucmfv7u" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="EAAO6CpshNKABAIhHkUbiQy13eIbdg7wFtMJ7G87ZBTdWssWtXQu7SyflydBPw5vtuOG10ZAwNec3WI3GKlRJ6luz8pOgS7Gf3GLegqDkk33z0U2hHSzpSfTnOM8J7H9dTkWlOJceO4f2lzVuNeesb2nIYIetQZD" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8000" />
+          <option name="urlPath" value="/login/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="access_token" />
+                <option name="value" value="1234" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://startup2.pythonanywhere.com" />
@@ -620,26 +1402,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4025157" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30031446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4025157" sideWeight="0.49707174" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30031446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@startup" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4025157" sideWeight="0.49707174" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@startup" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -658,34 +1440,25 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/accounts/views.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accounts/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/accounts/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="27" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -731,7 +1504,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="50" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -739,7 +1514,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -785,7 +1562,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -838,7 +1617,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -871,7 +1652,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -904,7 +1687,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -934,7 +1719,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -957,7 +1744,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -980,14 +1769,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/django/contrib/auth/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33243242">
-          <caret line="138" column="19" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,30 +1826,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/allauth/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1082,15 +1848,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33223686">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33238637">
+          <caret line="365" column="6" selection-start-line="365" selection-start-column="6" selection-end-line="365" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/allauth/socialaccount/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10511363">
+          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/allauth/socialaccount/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/accounts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.043814432">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="-0.57954544">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

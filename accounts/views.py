@@ -1,4 +1,6 @@
-from allauth.socialaccount.models import SocialAccount
+from allauth.socialaccount.helpers import complete_social_login
+from allauth.socialaccount.models import SocialAccount, SocialApp, SocialToken, SocialLogin
+from django.contrib.auth.models import User
 from django.contrib.syndication.views import Feed
 from django.core.urlresolvers import reverse
 from django.http import HttpResponse
@@ -7,22 +9,59 @@ from django.contrib.auth import authenticate
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.decorators import api_view, renderer_classes
 from rest_framework.response import Response
+from accounts.models import UserProfile
 from .serializers import UserSerializer
 from rest_framework.renderers import JSONRenderer
 from rest_framework.views import APIView
 from .admin import Post
 from django.core import serializers
-from allauth.socialaccount.providers.facebook.views import FacebookOAuth2Adapter
+from allauth.socialaccount.providers.facebook.views import FacebookOAuth2Adapter, fb_complete_login
 from rest_auth.registration.views import SocialLoginView
 
 
 
-class FacebookLogin(SocialLoginView):
-    adapter_class = FacebookOAuth2Adapter
+# Log in from Facebook
+@csrf_exempt
+def mobile_facebook_login(request):
+    if request.method=="POST":
+        response=HttpResponse
+        access_token =str(request.POST['access_token'])
+        email=str(request.POST['email'])
+        try:
+            app=SocialApp.objects.get(provider="facebook")
+            token=SocialToken(app=app,token=access_token)
+             # Check token against facebook
+            login = fb_complete_login(request, app, token)
+            login.token = token
+            login.state = SocialLogin.state_from_request(request)
+            # Add or update the user into users table
+            ret = complete_social_login(request, login)
+
+            try:
+                user=User.objects.get(email=email)
+                account=SocialAccount.objects.get(user=user)
+                user.backend = 'django.contrib.auth.backends.ModelBackend'
+                profile=UserProfile.objects.get_or_create(user=user,dp=account.get_avatar_url())
+                return HttpResponse(user.username)
 
 
-def Post(request,pk):
-    post=Post.objects.get(id=pk)
+            except User.DoesNotExist:
+                return HttpResponse("User Dosent Exist")
+
+
+
+
+            return HttpResponse("wuhoo")
+
+
+        except Exception,e:
+            # If we get here we've failed
+
+
+           return HttpResponse("Login Failed")
+
+
+
 
 
 @api_view(['GET'])
