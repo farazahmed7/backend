@@ -1,4 +1,3 @@
-from django.conf.urls.defaults import *
 from . import views,feeds
 from django.conf.urls import url, include
 from startup import settings
