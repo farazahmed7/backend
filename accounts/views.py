@@ -26,7 +26,7 @@ def mobile_facebook_login(request):
     if request.method=="POST":
         response=HttpResponse
         access_token =str(request.POST['access_token'])
-        email=str(request.POST['email'])
+        #email=str(request.POST['email'])
         try:
             app=SocialApp.objects.get(provider="facebook")
             token=SocialToken(app=app,token=access_token)
@@ -36,29 +36,20 @@ def mobile_facebook_login(request):
             login.state = SocialLogin.state_from_request(request)
             # Add or update the user into users table
             ret = complete_social_login(request, login)
-
+            a=SocialToken.objects.get(token=access_token)
             try:
-                user=User.objects.get(email=email)
-                account=SocialAccount.objects.get(user=user)
+                account=a.account
+                user=account.user
                 user.backend = 'django.contrib.auth.backends.ModelBackend'
                 profile=UserProfile.objects.get_or_create(user=user,dp=account.get_avatar_url())
-                return HttpResponse(user.username)
-
-
+                ser=serializers(profile)
+                return Response(ser.data)
             except User.DoesNotExist:
                 return HttpResponse("User Dosent Exist")
-
-
-
-
             return HttpResponse("wuhoo")
-
-
-        except Exception,e:
+        except Exception as e:
             # If we get here we've failed
-
-
-           return HttpResponse("Login Failed")
+           return HttpResponse(str(e))
 
 
 

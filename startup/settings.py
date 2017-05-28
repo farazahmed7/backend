@@ -164,3 +164,4 @@ MEDIA_ROOT = '/media/'
 MEDIA_URL = '/media/'
 LOGIN_REDIRECT_URL='/profile/'
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
