@@ -1,7 +1,6 @@
 from __future__ import unicode_literals
 from allauth.socialaccount.models import SocialAccount
 from django.contrib.auth.models import User
-from stream_django.activity import Activity
 
 from django.db import models
 
