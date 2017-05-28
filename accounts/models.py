@@ -15,8 +15,8 @@ class Post(models.Model):
         return self.post
 
 class UserProfile(models.Model):
-    user = models.ForeignKey(SocialAccount)
+    user = models.ForeignKey(User)
     dp=models.CharField(max_length=100)
-
+    fullName=models.CharField(max_length=100)
     def __str__(self):
-        return self.user.user.username
+        return self.user.get_full_name()

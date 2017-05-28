@@ -41,15 +41,14 @@ def mobile_facebook_login(request):
                 account=a.account
                 user=account.user
                 user.backend = 'django.contrib.auth.backends.ModelBackend'
-                profile=UserProfile.objects.get_or_create(user=user,dp=account.get_avatar_url())
-                ser=serializers(profile)
-                return Response(ser.data)
+                profile=UserProfile.objects.get_or_create(user=user,dp=account.get_avatar_url(),fullName=user.get_full_name())[0]
+                return HttpResponse(serializers.serialize("json",[profile]))
             except User.DoesNotExist:
                 return HttpResponse("User Dosent Exist")
             return HttpResponse("wuhoo")
         except Exception as e:
             # If we get here we've failed
-           return HttpResponse(str(e))
+           return HttpResponse("ASdsa "+str(e))
 
 
 
